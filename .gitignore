@@ -103,3 +103,4 @@ ENV/
 # extra
 
 data_science_requirements.txt
+csv/*
